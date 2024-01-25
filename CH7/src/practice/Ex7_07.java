@@ -1,6 +1,6 @@
 package practice;
 
-public class Ex7_7 {
+public class Ex7_07 {
 	public static void main(String[] args) {
 		Car car = new Car();
 		FireEngine fe = new FireEngine();

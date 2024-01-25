@@ -50,7 +50,7 @@ class Buyer {		// 고객, 물건을 사는 사람
 		System.out.println(p + "을(를) 구입하셨습니다.");
 	}
 }
-public class Ex7_8 {
+public class Ex7_08 {
 	public static void main(String[] args) {
 		Buyer b = new Buyer();
 		

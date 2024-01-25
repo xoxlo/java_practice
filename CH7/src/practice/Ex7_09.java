@@ -85,7 +85,7 @@ class Buyer2 {					// 고객, 물건을 사는 사람
 	}
 }
 
-public class Ex7_9 {
+public class Ex7_09 {
 	public static void main(String[] args) {
 		Buyer2 b = new Buyer2();
 		
