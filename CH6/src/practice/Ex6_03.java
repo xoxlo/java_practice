@@ -1,6 +1,6 @@
 package practice;
 
-public class Ex6_3 {
+public class Ex6_03 {
 	public static void main(String[] args) {
 		System.out.println("Card.width = " + Card.width);
 		System.out.println("Card.height = " + Card.height);

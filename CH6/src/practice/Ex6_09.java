@@ -17,7 +17,7 @@ class MyMath2 {
 	static double divide(long a, long b) { return a / (double)b; }
 }
 
-public class Ex6_9 {
+public class Ex6_09 {
 	public static void main(String[] args) {
 		
 		// 클래스 메소드 호출, 인스턴스 생성없이 호출 가능

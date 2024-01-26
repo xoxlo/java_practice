@@ -1,6 +1,6 @@
 package practice;
 
-public class Ex6_1 {
+public class Ex6_01 {
 	public static void main(String[] args) {
 		Tv t;				// Tv인스턴스를 참조하기 위한 변수 t를 선언
 		t = new Tv();		// Tv인스턴스를 생성

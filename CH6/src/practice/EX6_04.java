@@ -1,6 +1,6 @@
 package practice;
 
-public class EX6_4 {
+public class EX6_04 {
 	public static void main(String[] args) {
 		MyMath mm = new MyMath();
 		long result1 = mm.add(5L, 3L);
