@@ -1,6 +1,6 @@
 package practice;
 
-public class Ex8_1 {
+public class Ex8_01 {
 	public static void main(String[] args) {
 		System.out.println(1);
 		try {
